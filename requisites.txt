@@ -1,0 +1,5 @@
+gradio==3.50.2
+transformers==4.38.1
+langchain_community==0.0.33
+torch==2.2.2+cu121
+faiss-cpu==1.8.0
