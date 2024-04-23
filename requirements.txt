@@ -3,4 +3,3 @@ gradio==3.50.2
 langchain==0.1.14
 langchain-community==0.0.33
 transformers==4.38.1
-torch==2.2.2+cu121
